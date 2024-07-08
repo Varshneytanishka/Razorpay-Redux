@@ -34,12 +34,12 @@ This repository contains the code for a revolutionary Razorpay-themed webpage, d
 | lightBlue | ![#2b84ea](https://via.placeholder.com/10/2b84ea?text=+) #2b84ea |
 | lightBlue300| ![#4b94ed](https://via.placeholder.com/10/4b94ed?text=+) #4b94ed |
 | lightBlue500| ![#0b72e7](https://via.placeholder.com/10/0b72e7?text=+) #0b72e7 |
-|greenLight| ![#61cea6](https://via.placeholder.com/10/61cea6?text=+) #61cea6|
-|grayText| ![#818597](https://via.placeholder.com/10/818597?text=+) #818597 |
-|lightGray| ![#e2e2e2](https://via.placeholder.com/10/e2e2e2?text=+) #e2e2e2|
-|grayBlue| ![#344a6c](https://via.placeholder.com/10/344a6cd?text=+) #344a6c |
-|deepBlueHead| ![#162f56](https://via.placeholder.com/10/162f56?text=+) #162f56 |
-|gray2| ![#525a76](https://via.placeholder.com/10/525a76?text=+) #525a76 |
+| greenLight| ![#61cea6](https://via.placeholder.com/10/61cea6?text=+) #61cea6|
+| grayText| ![#818597](https://via.placeholder.com/10/818597?text=+) #818597 |
+| lightGray| ![#e2e2e2](https://via.placeholder.com/10/e2e2e2?text=+) #e2e2e2|
+| grayBlue| ![#344a6c](https://via.placeholder.com/10/344a6cd?text=+) #344a6c |
+| deepBlueHead| ![#162f56](https://via.placeholder.com/10/162f56?text=+) #162f56 |
+| gray2| ![#525a76](https://via.placeholder.com/10/525a76?text=+) #525a76 |
 
  
 ## Contributing
@@ -100,6 +100,3 @@ To run tests, run the following command
 If you have any feedback, please reach out to us 
 
 HAPPY ENDING!
-## Dependencies 
-
- - Tailwind CSS: Ensure you have Tailwind CSS set up if you're modifying the CSS or adding new components. Refer to the Tailwind CSS Documentation for more information
